@@ -5,6 +5,7 @@ magical_toys_level_2_demo
 
 all Python code and WAV file are property of Shyamal Chandra (C) 2024
 
+0. install ollama for macOS and start gui
 1. set up pyenv with python 3.11
 2. download the required packages for the program in the header of the file (torch, etc.) without getting the gpu version of torch
 3. download the model files from whisper.cpp inside the model directory that end with .bin
